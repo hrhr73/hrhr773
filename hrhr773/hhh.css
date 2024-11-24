@@ -1,0 +1,79 @@
+
+body {
+ font-family: 'Courier New', Courier, monospace;
+ margin: 0%;
+ padding: 0%;
+
+}
+header {
+    background-color: rgb(220, 138, 15);
+    color: rgb(250, 225, 204);
+   padding: 50px;
+   text-align: center;
+
+    background-image: url(im.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 10%;
+}
+
+
+footer {
+    background-color: rgb(219, 210, 210);
+    color: rgb(22, 16, 6);
+    text-align: center;
+    padding: 50px;
+    text-align: center;
+}
+.hhh{
+    padding: 80px;
+    background-color:  antiquewhite;
+    text-align: center;
+  
+    
+}
+nav ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    background-color:  rgb(201, 127, 0);
+    overflow: hidden;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+}
+nav ul a {
+    color: rgb(236, 192, 131);
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+nav ul li a:hover {
+    background-color : rgb(224, 203, 170);
+}
+.op { 
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    background-color:  antiquewhite;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color : rgb(215, 172, 102);
+}
+ .op ul a {
+    color: rgb(27, 21, 12);
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+.op ul li {
+    display: inline;
+ }
+ .op ul li a:hover {
+    background-color : rgb(230, 147, 13);
+}
